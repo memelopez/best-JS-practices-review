@@ -1,4 +1,4 @@
-// /src/index.js - entry point
+// /src/index.js - entry point - minor change
 
 import './styles.css';
 import UI from './modules/ui';
